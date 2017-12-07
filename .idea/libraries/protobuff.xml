@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="protobuff">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../protobuff/out/artifacts/protobuff_jar/protobuff.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
